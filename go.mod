@@ -16,7 +16,7 @@ require (
 	github.com/gopherjs/gopherjs v0.0.0-20190910122728-9d188e94fb99 // indirect
 	github.com/ipfs/fs-repo-migrations v1.7.1
 	github.com/ipfs/go-blockservice v0.1.7
-	github.com/ipfs/go-cid v0.0.7
+	github.com/ipfs/go-cid v0.1.0
 	github.com/ipfs/go-datastore v0.4.5
 	github.com/ipfs/go-filestore v0.0.3
 	github.com/ipfs/go-ipfs v0.9.1
