@@ -37,7 +37,7 @@ require (
 	github.com/libp2p/go-yamux v1.4.1
 	github.com/mholt/archiver/v3 v3.5.0
 	github.com/multiformats/go-multiaddr v0.3.3
-	github.com/multiformats/go-multihash v0.0.15
+	github.com/multiformats/go-multihash v0.0.16
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pborman/uuid v1.2.1
 	github.com/pkg/errors v0.9.1
